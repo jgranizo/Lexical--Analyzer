@@ -1,3 +1,3 @@
 # Parser-cs280
-all files for the parser to work are in the idea folder
-Includes parser file, lexical anyalzyer file, as well as
+
+Created parser using a lexical analyzer which parses through each word and checking to see if the sytax is good as well as if the grammer of the syntax given is good for code to work successfully as any programming language does.
